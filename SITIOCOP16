@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COMPAÑÍA PARA LA COP16</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0044cc;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header .logo-img {
+            width: 50px;
+            vertical-align: middle;
+        }
+        header h1 {
+            display: inline;
+            margin-left: 20px;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            margin: 0 15px;
+            color: white;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #0044cc;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        img {
+            max-width: 100%;
+        }
+        .contract-form {
+            display: none;
+        }
+        .services, .impact, .objectives {
+            margin-bottom: 20px;
+        }
+        .photos img {
+            max-width: 100%;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/United_Nations_Framework_Convention_on_Climate_Change_logo.svg/1200px-United_Nations_Framework_Convention_on_Climate_Change_logo.svg.png" alt="Logo COP16" class="logo-img">
+        <h1>COMPAÑÍA PARA LA COP16</h1>
+        <nav>
+            <a href="#inicio">Inicio</a>
+            <a href="#sobre-nosotros">Sobre Nosotros</a>
+            <a href="#contacto">Contacto</a>
+            <a href="#contrato">Contrato</a>
+            <a href="#fotos">Fotos</a>
+            <a href="#videos">Videos</a>
+        </nav>
+    </header>
+
+    <section id="inicio">
+        <h2>¿Qué Ofrecemos?</h2>
+        <p>La COMPAÑÍA PARA LA COP16 está comprometida con la implementación de soluciones innovadoras y sostenibles para enfrentar los desafíos ambientales globales, alineados con los objetivos y compromisos de la COP 16, la Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC). La COP 16, celebrada en Cancún en 2010, representó un paso fundamental hacia un acuerdo global que aborde el cambio climático, al acordar la creación de mecanismos que permitan la reducción de las emisiones de gases de efecto invernadero y la promoción de la adaptación climática.</p>
+        <p>Nos especializamos en proyectos centrados en la conservación de los ecosistemas, el uso de energías renovables y la protección de la biodiversidad. Al adoptar prácticas sostenibles, contribuimos activamente a la mitigación del cambio climático, generando un impacto positivo a nivel local y global.</p>
+
+        <div class="services">
+            <h3>Nuestros Servicios</h3>
+            <ul>
+                <li>Conservación de ecosistemas y biodiversidad, con especial énfasis en la restauración de áreas degradadas por actividades humanas. Implementamos programas de reforestación y preservación de especies autóctonas.</li>
+                <li>Instalación de paneles solares y otras tecnologías de energía renovable. Promovemos el uso de la energía solar como una fuente limpia y accesible, reduciendo la dependencia de combustibles fósiles y disminuyendo las emisiones de carbono.</li>
+                <li>Asesoría en prácticas agrícolas sostenibles. Trabajamos con comunidades rurales para fomentar métodos de cultivo que no solo aumenten la productividad, sino que también protejan el suelo, el agua y la biodiversidad.</li>
+                <li>Protección de especies en peligro de extinción mediante la creación de santuarios y reservas naturales. Colaboramos con entidades gubernamentales e internacionales para garantizar la preservación de la fauna y flora en riesgo.</li>
+            </ul>
+        </div>
+
+        <div class="impact">
+            <h3>Impacto Ambiental</h3>
+            <p>Nuestro enfoque está alineado con los principios del desarrollo sostenible y los objetivos de la COP 16. Nos enfocamos en reducir las emisiones de gases de efecto invernadero, impulsar la adaptación climática y promover la resiliencia de los ecosistemas. Cada proyecto que llevamos a cabo está diseñado para maximizar los beneficios ambientales y sociales, minimizando a la vez el impacto ecológico.</p>
+            <p>Desde la COP 16, el mundo ha avanzado significativamente en la creación de mecanismos de financiación climática, como el Fondo Verde para el Clima, del cual nuestra empresa se ha beneficiado para implementar proyectos de energía renovable en comunidades vulnerables. Estos proyectos no solo contribuyen a la mitigación del cambio climático, sino que también mejoran la calidad de vida de las personas al proporcionar acceso a energía limpia y asequible.</p>
+        </div>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Energy_from_solar_panels.jpg" alt="Paneles solares">
+    </section>
+
+    <section id="sobre-nosotros">
+        <h2>Sobre Nosotros</h2>
+        <p>La COMPAÑÍA PARA LA COP16 fue fundada en respuesta a la creciente necesidad de acción climática efectiva, específicamente alineada con los compromisos internacionales adoptados durante la COP 16. Desde nuestra creación, hemos trabajado incansablemente para ser un actor clave en la lucha contra el cambio climático, colaborando con gobiernos, ONGs y el sector privado para implementar soluciones que generen un cambio real y duradero.</p>
+        <p>Nuestra empresa está formada por un equipo multidisciplinario de expertos en ciencias ambientales, ingeniería y desarrollo sostenible, todos ellos comprometidos con el propósito de proteger el planeta y garantizar un futuro sostenible para las generaciones venideras. Creemos firmemente en la importancia de la cooperación internacional y en el poder de la innovación para superar los desafíos climáticos más apremiantes.</p>
+
+        <div class="objectives">
+            <h3>Nuestros Objetivos</h3>
+            <ul>
+                <li>Implementar soluciones sostenibles que contribuyan a la reducción de las emisiones de CO2 y otros gases de efecto invernadero, promoviendo la transición hacia una economía baja en carbono.</li>
+                <li>Fomentar la cooperación internacional en materia ambiental, colaborando estrechamente con los países signatarios de la COP 16 para cumplir con los compromisos de mitigación y adaptación climática.</li>
+                <li>Proteger la biodiversidad y los ecosistemas que se encuentran bajo amenaza debido a la deforestación, la sobreexplotación y el cambio climático. Trabajamos en la restauración de hábitats y la creación de corredores ecológicos.</li>
+                <li>Promover el uso de energías renovables como la solar y la eólica en comunidades urbanas y rurales, reduciendo así la dependencia de combustibles fósiles y ayudando a cumplir con los objetivos globales de reducción de emisiones.</li>
+            </ul>
+        </div>
+
+        <h3>Visión</h3>
+        <p>Nuestra visión es convertirnos en líderes globales en la implementación de soluciones sostenibles que aborden los desafíos climáticos actuales. Imaginamos un futuro en el que la humanidad haya logrado reducir significativamente sus emisiones de carbono, en el que los ecosistemas naturales prosperen y en el que la cooperación internacional permita superar los obstáculos más difíciles en la lucha contra el cambio climático. Queremos ser reconocidos no solo por nuestros logros técnicos, sino también por nuestro compromiso con la justicia social y ambiental.</p>
+
+        <h3>Reseña</h3>
+        <p>Desde nuestra fundación en 2020, hemos liderado una serie de proyectos innovadores que han tenido un impacto directo en la reducción de emisiones y la conservación de la biodiversidad. Entre ellos, destaca nuestra colaboración con organizaciones internacionales para el establecimiento de zonas protegidas en áreas de alta biodiversidad y nuestra participación en iniciativas para la transición energética en comunidades vulnerables.</p>
+        <p>Uno de nuestros proyectos más importantes ha sido la instalación de más de 1,000 paneles solares en comunidades rurales, que ahora disfrutan de energía limpia y confiable, mejorando su calidad de vida y reduciendo su huella de carbono. Estos logros reflejan nuestro compromiso continuo con los principios de la COP 16 y nuestra misión de crear un impacto ambiental positivo a largo plazo.</p>
+    </section>
+
+    <section id="fotos">
+        <h2>Fotos Relacionadas a la COP 16</h2>
+        <div class="photos">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Protest_COP16_Marcha_en_la_Protesta_Global_COP16_Cancún_2010.jpg" alt="Protesta Global en la COP16">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/COP16_session.jpg" alt="Sesión en la COP16">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/COP16_2010_Opening_Plenary.jpg" alt="Ceremonia de Apertura de la COP16">
+        </div>
+    </section>
+
+    <section id="videos">
+        <h2>Videos Relacionados a la COP 16</h2>
+        <p>Puedes ver un video relacionado con la COP 16 en YouTube en el siguiente enlace:</p>
+        <a href="https://www.youtube.com/watch?v=cLHEQstPbm8" target="_blank">Ver Video en YouTube</a>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p><strong>Ubicación:</strong> Carrera 26m2 #54-60, Ciudad Sustentable</p>
+        <p><strong>Teléfono:</strong> 3145585893</p>
+        <p><strong>Email:</strong> jaisazaes.est@cosfacali.edu.co</p>
+    </section>
+
+    <section id="contrato">
+        <h2>Formulario de Contrato</h2>
+        <form action="contrato.html" method="post">
+            <label for="nombre">Nombre Completo:</label><br>
+            <input type="text" id="nombre" name="nombre" required><br><br>
+
+            <label for="email">Correo Electrónico:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="telefono">Teléfono:</label><br>
+            <input type="tel" id="telefono" name="telefono" required><br><br>
+
+            <label for="mensaje">¿Por qué deseas unirte?</label><br>
+            <textarea id="mensaje" name="mensaje" rows="4" cols="50" required></textarea><br><br>
+
+            <input type="submit" value="Enviar">
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 COMPAÑÍA PARA LA COP16</p>
+    </footer>
+
+</body>
+</html>
